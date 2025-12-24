@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on MERN projects<br>🤝 I’m looking to collaborate on Web development projects.<br>💬 Ask me about Express, CPP and Front-end.<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>📧 How to reach me nishitasingh022@gmail.com.<br>⚡ Fun fact: I think, I can code<br>
+🔭 I'm currently working on MERN projects<br>🤝 I’m looking to collaborate on Web development projects.<br>💬 Ask me about MERN, CPP and AI/ML.<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>📧 How to reach me nishitasingh022@gmail.com.<br>⚡ Fun fact: I think, I can code<br>
 
 
 ## 🌐 Socials:
